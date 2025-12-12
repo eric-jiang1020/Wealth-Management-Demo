@@ -43,7 +43,21 @@ Financial Journal
 
 Portfolio Model
 
+## How to Use the PDF Preview
 
+If you just want to understand the model without opening Excel:
+
+**1. Open Wealth-Management-Model-Preview.pdf**
+
+**2. Scroll through each page to see:**
+
+•The layout of each spreadsheet
+
+•How financial overview categories are organized
+
+•Examples of portfolio model and budget expectations
+
+**3. Use this as a quick reference for how the workbook is structured before you work in Excel**
 
 
 
