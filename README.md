@@ -8,7 +8,7 @@ There is no real personal financial data in the files. All numbers are used as e
 ### •Wealth Management demo version.xltx
 Interactive, Excel template that users can enter their own numbers in cells and see the dashboards update automatically
 
-### •Wealth Management demo version.xltx  -  file
+### Wealth-Management-Model-Preview.pdf
 A preview version of the Wealth Management Model. This is useful for quickly understanding how the workbook is structured without opening up Excel
 
 ## What This Demo Is For
