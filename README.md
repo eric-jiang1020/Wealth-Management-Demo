@@ -21,3 +21,32 @@ This Demo shows an Excel Workbook that can be used to:
 •Summarize your **personal finances** into **monthly, quarterly, and yearly** views
 
 •Provide a foundation for long-term **wealth planning and analysis**
+
+## How to Use the Excel Demo
+**1. Download the file**
+
+Click on Wealth-Management-Model-Demo.xlsx in this repository
+
+Click the Download button –> “Download raw file” (or "view raw" and "save as")
+
+**2. Open it in Excel (recommended)**
+
+Desktop Excel is best (Windows or Mac)
+
+Some features may be limited in Excel Online or Google Sheets
+
+**3. Explore the spreadsheets**
+
+Asset Maps
+
+Financial Journal
+
+Portfolio Model
+
+
+
+
+
+
+
+
